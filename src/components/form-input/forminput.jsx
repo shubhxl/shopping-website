@@ -1,5 +1,5 @@
 import React from 'react';
-import './forminput.scss'
+import './forminput.scss';
 
 export default function Forminput({handleChange, label, name, type, value}) {
     return (
